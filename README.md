@@ -4,3 +4,13 @@
 📜 Learn how to create a script file that interacts with smart contracts and solves them.
 ⛓ Use the Foundry framework to interact with the challenge.
 🔤 Understand how to broadcast and verify the transactions using foundry to the blockchain.
+
+succeeding in Ethernaut challenges requires strategic thinking and keen observation. Here are tips to boost your success:
+
+- **Careful Reading:** Thoroughly understand exercise instructions, objectives, and hints.
+- **Smart Contract Analysis:** Dive into smart contract code, identifying potential security issues.
+- **Special Comments:** Use comments to mark vulnerabilities or exploit ideas within contracts, you can use the [Solidity Visual Developer VSCode Plugin]
+
+**Test File Exploration:** Explore test files to understand the system state and transaction sequence.
+- **Persistence and Experimentation:** Overcome challenges with experimentation and perseverance.
+- **Take Breaks:** Refresh your mind by taking breaks during complex challenges.
